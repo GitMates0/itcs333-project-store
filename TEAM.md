@@ -3,7 +3,7 @@
 ## Members & module allocation
 | Student ID | Name | Module(s) owned |
 |---|---|---|
-| 20XXXXXX |  | m1_auth |
+| 202302273 | Sara Abdulameer  | m1_auth |
 | 20XXXXXX |  | m2_catalog |
 | 20XXXXXX |  | m3_cart |
 | 20XXXXXX |  | m4_orders |
